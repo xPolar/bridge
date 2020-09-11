@@ -1,6 +1,6 @@
 # Bridge between Twitch and Discord
 
-![Twitch Banner](https://cdn.discordapp.com/attachments/701315125428355124/754055286544793650/twitch.jpg)
+![Twitch Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/1280px-Twitch_logo_2019.svg.pn)
 
 [View Live](https://discord.gg/yYUYPr)
 
