@@ -1,4 +1,4 @@
-# Bridge between Twitch and Discord
+# Bridge between Twitch and Discord [Outdated]
 
 ![Twitch Banner](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Twitch_logo_2019.svg/1280px-Twitch_logo_2019.svg.png)
 
